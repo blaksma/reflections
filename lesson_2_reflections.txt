@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initialized empty Git repository in /home/paa-pce/Udacity/reflections/.git/
+A new git project is created and initialized. We need to do it to track all the files that we need.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an intermediate buffer to collect data from working directory and to store it in repository. 
